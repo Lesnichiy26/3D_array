@@ -1,0 +1,11 @@
+add_library(
+        cube
+        Cube.cpp
+        Cube.h
+        Square.cpp
+        Square.h
+        Plain.cpp
+        Plain.h
+        uint17_t.cpp
+        uint17_t.h
+)
